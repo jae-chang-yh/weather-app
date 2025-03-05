@@ -1,0 +1,77 @@
+# 🌦 Weather App
+
+A simple weather application that provides real-time weather updates for any location.
+
+## 📖 Table of Contents
+
+- [About](#-about)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Features](#-features)
+- [Contributing](#-contributing)
+
+## 📜 About
+
+This is a simple web app project that allows users to check on weather based on the city they entered
+
+## 🔧 Installation
+
+### **Prerequisites**
+
+Make sure you have the following installed:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/) (if applicable)
+
+### Steps
+
+- Clone this repository:
+
+  git clone https://github.com/jae-chang-yh/weather-app.git
+
+- Navigate to the project folder:
+
+  cd weather-app
+
+- Open index.html in your browser.
+
+  If you’re using a local server (for example, with VS Code Live Server Extension), start the server and open the app.
+
+## 🚀 Usage
+
+Enter a city name in the search bar.
+
+Click the search button.
+
+View current weather details, including temperature, humidity, and wind speed.
+
+## 🌟 Features
+
+✅ Search weather by city name<br>
+✅ Displays temperature, humidity, and weather conditions
+
+## 📚 Technologies Used
+
+HTML, CSS, JavaScript – Frontend development
+
+OpenWeatherMap API – Fetching real-time weather data
+
+## 🤝 Contributing
+
+Contributions are welcome! Follow these steps:
+
+- Fork this repository.
+
+- Create a new branch:
+
+- git checkout -b feature-name
+
+- Make your changes and commit them:
+
+- git commit -m "Added new feature"
+
+- Push to the branch:
+
+- git push origin feature-name
+
+- Open a Pull Request.
